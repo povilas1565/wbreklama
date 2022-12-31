@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wbreklama/static/css/main.e07a2d16.chunk.css",
+    "main.js": "/wbreklama/static/js/main.586f9404.chunk.js",
+    "main.js.map": "/wbreklama/static/js/main.586f9404.chunk.js.map",
+    "runtime-main.js": "/wbreklama/static/js/runtime-main.f68592dd.js",
+    "runtime-main.js.map": "/wbreklama/static/js/runtime-main.f68592dd.js.map",
+    "static/js/2.83ad1242.chunk.js": "/wbreklama/static/js/2.83ad1242.chunk.js",
+    "static/js/2.83ad1242.chunk.js.map": "/wbreklama/static/js/2.83ad1242.chunk.js.map",
+    "index.html": "/wbreklama/index.html",
+    "precache-manifest.f73d33c8f778c88c7beb60b13aa589ff.js": "/wbreklama/precache-manifest.f73d33c8f778c88c7beb60b13aa589ff.js",
+    "service-worker.js": "/wbreklama/service-worker.js",
+    "static/css/main.e07a2d16.chunk.css.map": "/wbreklama/static/css/main.e07a2d16.chunk.css.map",
+    "static/js/2.83ad1242.chunk.js.LICENSE.txt": "/wbreklama/static/js/2.83ad1242.chunk.js.LICENSE.txt",
+    "static/media/avatar0.png": "/wbreklama/static/media/avatar0.edfa71c3.png",
+    "static/media/favicon.ico": "/wbreklama/static/media/favicon.dcc81d27.ico"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f68592dd.js",
+    "static/js/2.83ad1242.chunk.js",
+    "static/css/main.e07a2d16.chunk.css",
+    "static/js/main.586f9404.chunk.js"
+  ]
+}
